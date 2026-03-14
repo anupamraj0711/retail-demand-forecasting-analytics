@@ -158,5 +158,5 @@ The dashboard will display sales trends and allow exploration of the dataset.
 
 **Anupam Raj**
 
-M.Sc. Microbiology, Galgotias University
+B.Tech CSE,NIIT University
 Interested in Data Analytics, AI Systems, and Applied Machine Learning.
